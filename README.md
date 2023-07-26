@@ -15,4 +15,4 @@ An automatic backup utility for user folders
 <h2 align="center">TODO <i>(remind me to do this someday)</i></h2>
 
 - [x] Backup
-- [] Backup extractor - extracts backed up folders in their original locations _(ex. C:/SaekoBackup/Documents > %USERPROFILE%/Documents)_
+- [ ] Backup extractor - extracts backed up folders in their original locations _(ex. C:/SaekoBackup/Documents > %USERPROFILE%/Documents)_
