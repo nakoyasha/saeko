@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <SignAssembly>False</SignAssembly>
+	<GenerateRuntimeConfigDevFile>false</GenerateRuntimeConfigDevFile>
+    <PublishSingleFile>true</PublishSingleFile>
   </PropertyGroup>
 
   <ItemGroup>
