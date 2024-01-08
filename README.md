@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Saeko</h1>
 An automatic backup utility for user folders
-<img align="center" src="https://raw.githubusercontent.com/nakoyasha/mizuki/main/assets/preview.gif">
+<img align="center" src="https://raw.githubusercontent.com/nakoyasha/saeko/main/assets/preview.gif">
 </p>
 </div>
 
